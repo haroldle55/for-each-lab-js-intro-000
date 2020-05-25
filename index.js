@@ -1,3 +1,3 @@
 iterativeLog(array){
-  
+  array.forEach()
 }
