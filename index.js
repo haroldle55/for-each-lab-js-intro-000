@@ -1,3 +1,5 @@
 iterativeLog(array){
-  array.forEach()
+  array.forEach((element,index) =>{
+    conosole.log(`${index}:${element}`)
+  }
 }
